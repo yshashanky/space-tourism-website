@@ -3,18 +3,14 @@
         background-image: url("../assets/home/background-home-desktop.jpg");
         background-repeat: no-repeat;
         background-size: cover;
+        margin: 0px;
         position: relative;
+        background-color: #0B0D17;
     }
 
     .info-text {
         height: 382px;
         width: 450px;
-    }
-
-    body {
-        margin: 0px;
-        position: relative;
-        background-color: #0B0D17;
     }
 
     .heading-one {

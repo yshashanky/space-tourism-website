@@ -3,17 +3,14 @@
         background-image: url("../assets/home/background-home-mobile.jpg");
         background-repeat: no-repeat;
         background-size: cover;
+        margin: 0px;
+        position: relative;
+        background-color: #0B0D17;
     }
 
     .info-text {
         width: 327px;
         height: 276px;
-    }
-
-    body {
-        margin: 0px;
-        position: relative;
-        background-color: #0B0D17;
     }
 
     .heading-one {

@@ -3,17 +3,14 @@
         background-image: url("../assets/home/background-home-tablet.jpg");
         background-repeat: no-repeat;
         background-size: cover;
+        margin: 0px;
+        position: relative;
+        background-color: #0B0D17;
     }
 
     .info-text {
         height: 334px;
         width: 450px;
-    }
-
-    body {
-        margin: 0px;
-        position: relative;
-        background-color: #0B0D17;
     }
 
     .heading-one {
@@ -107,7 +104,7 @@
         color: #FFFFFF;
     }
 
-    .content{
+    .content {
         display: inline-grid;
         margin: 106px 159px 90px 159px;
     }
@@ -119,7 +116,7 @@
     .info-text-bottom-padding {
         padding-bottom: 24px;
     }
-    
+
     .explore-button {
         color: #0B0D17;
         background-color: white;
@@ -133,7 +130,7 @@
     }
 
     .explore-button:hover {
-        box-shadow: 0px 0px 1px 78px rgb(255, 255, 255, 10%); 
+        box-shadow: 0px 0px 1px 78px rgb(255, 255, 255, 10%);
     }
 
     .explore-button-text {

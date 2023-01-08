@@ -1,0 +1,10 @@
+@media (min-width: 376px) and (max-width: 768px) {
+    body {
+        background-image: url("../assets/destination/background-destination-tablet.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 0px;
+        position: relative;
+        background-color: #0B0D17;
+    }
+}
