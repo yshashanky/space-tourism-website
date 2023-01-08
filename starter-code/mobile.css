@@ -20,10 +20,10 @@
         font-family: 'Bellefair', sans-serif;
         font-style: normal;
         font-weight: 400;
-        font-size: 150px;
-        line-height: 172px;
-        /* identical to box height */
+        font-size: 80px;
+        line-height: 100px;
         text-transform: uppercase;
+        text-align: center;
         color: #FFFFFF;
     }
     
@@ -52,22 +52,25 @@
         font-family: 'Bellefair', sans-serif;
         font-style: normal;
         font-weight: 400;
-        font-size: 32px;
-        line-height: 37px;
+        font-size: 20px;
+        line-height: 23px;
         /* identical to box height */
         text-transform: uppercase;
+        letter-spacing: 1.25px;
         color: #FFFFFF;
+        text-align: center;
     }
     
     .heading-five {
         font-family: 'Barlow Condensed', sans-serif;
         font-style: normal;
         font-weight: 400;
-        font-size: 28px;
-        line-height: 34px;
+        font-size: 16px;
+        line-height: 19px;
         /* identical to box height */
-        letter-spacing: 4.725px;
+        letter-spacing: 2.7px;
         text-transform: uppercase;
+        text-align: center;
         color: #D0D6F9;
     }
     
@@ -108,13 +111,26 @@
         font-family: 'Barlow', sans-serif;
         font-style: normal;
         font-weight: 400;
-        font-size: 18px;
-        line-height: 32px;
+        font-size: 15px;
+        line-height: 25px;
         /* or 178% */
         color: #FFFFFF;
+        text-align: center;
     }
     
     .info-text-body-color {
         color: #D0D6F9
+    }
+
+    .explore-button {
+        color: #0B0D17;
+        background-color: white;
+        height: 150px;
+        width: 150px;
+        border-radius: 50%;
+    }
+
+    .explore-button-text{
+        padding-top: 65px;
     }
 }

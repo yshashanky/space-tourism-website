@@ -117,4 +117,17 @@
     .info-text-body-color {
         color: #D0D6F9
     }
+
+    .explore-button {
+        color: #0B0D17;
+        background-color: white;
+        height: 274px;
+        width: 274px;
+        border-radius: 50%;
+        text-align: center;
+    }
+
+    .explore-button-text{
+        padding-top: 121px;
+    }
 }
