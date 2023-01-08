@@ -150,6 +150,10 @@
         text-align: center;
     }
 
+    .navbar input {
+        display: none;
+    }
+
     .navbar ul {
         list-style-type: none;
         display: flex;

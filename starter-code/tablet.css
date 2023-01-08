@@ -158,6 +158,10 @@
         padding-right: 37px;
     }
 
+    .navbar input {
+        display: none;
+    }
+    
     .navbar a {
         text-decoration: none;
     }
