@@ -100,10 +100,11 @@
         font-family: 'Barlow Condensed', sans-serif;
         font-style: normal;
         font-weight: 400;
-        font-size: 16px;
-        line-height: 19px;
-        letter-spacing: 2.7px;
+        font-size: 14px;
+        line-height: 17px;
+        letter-spacing: 2.3625px;
         color: #FFFFFF;
+        text-transform: uppercase;
     }
     
     .body-text {
@@ -117,6 +118,10 @@
         color: #FFFFFF;
     }
     
+    .navbar{
+        height: 96px;
+    }
+
     .info-text-body-color {
         color: #D0D6F9
     }
