@@ -3,6 +3,7 @@
         background-image: url("./assets/home/background-home-desktop.jpg");
         background-repeat: no-repeat;
         background-size: cover;
+        position: relative;
     }
 
     .info-text {
@@ -116,20 +117,32 @@
     }
 
     .navbar {
-        width: 1385px;
         height: 96px;
         width: auto;
         display: flex;
-        
+        margin-top: 40px;
+        float: right;
     }
 
     .navbar img {
+        padding-right: 493px;
         width: 48px;
         height: 48px;
         padding-top: 23px;
     }
 
-    .navbar-elements{
+    .navbar-rectangle {
+        margin-top: 47px;
+        margin-left: -433px;
+        width: 473px;
+        height: 1px;
+        background: #FFFFFF;
+        mix-blend-mode: normal;
+        opacity: 0.25;
+    }
+
+    .navbar-elements {
+        display: flex;
         width: 830px;
         height: 96px;
         background: rgba(255, 255, 255, 0.04);
@@ -140,7 +153,7 @@
     .navbar ul {
         list-style-type: none;
         display: flex;
-        padding-left: 123px;
+        padding-left: 83px;
         padding-right: 125px;
     }
 
@@ -152,6 +165,15 @@
 
     .navbar a {
         text-decoration: none;
+    }
+
+    .content{
+        display: inline-flex;
+        margin: 251px 165px 131px 165px;
+    }
+
+    .info-text{
+        margin-right: 386px;
     }
 
     .info-text-body-color {
