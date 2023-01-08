@@ -1,8 +1,8 @@
 /* mobile */
-@import url("mobile.css");
+@import url("./stylesheets/mobile.css");
 
 /* tablet */
-@import url("tablet.css");
+@import url("./stylesheets/tablet.css");
 
 /* desktop */
-@import url("desktop.css");
+@import url("./stylesheets/desktop.css");
