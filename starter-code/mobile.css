@@ -181,9 +181,16 @@
     }
 
     #menuToggle a:hover {
-        color: tomato;
+        text-decoration: underline;
+        text-underline-offset: 5px;
+        text-decoration-color: rgba(255, 255, 255, 0.5);
     }
 
+    #menuToggle a.active {
+        text-decoration: underline;
+        text-underline-offset: 5px;
+        text-decoration-color: rgba(255, 255, 255, 1);
+    }
 
     #menuToggle input {
         display: block;

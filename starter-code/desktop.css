@@ -171,6 +171,18 @@
         text-decoration: none;
     }
 
+    .navbar a:hover {
+        text-decoration: underline;
+        text-underline-offset: 40px;
+        text-decoration-color: rgba(255, 255, 255, 0.5);
+    }
+
+    .navbar a.active {
+        text-decoration: underline;
+        text-underline-offset: 40px;
+        text-decoration-color: rgba(255, 255, 255, 1);
+    }
+
     .content {
         display: inline-flex;
         margin: 251px 165px 43px 77px;
