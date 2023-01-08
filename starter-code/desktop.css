@@ -180,6 +180,10 @@
         color: #D0D6F9
     }
 
+    .info-text-bottom-padding {
+        padding-bottom: 24px;
+    }
+
     .explore-button {
         color: #0B0D17;
         background-color: white;
