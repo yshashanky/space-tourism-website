@@ -1,0 +1,120 @@
+@media (min-width: 769px) {
+    body {
+        background-image: url("./assets/home/background-home-desktop.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .info-text {
+        height: 382px;
+        width: 450px;
+    }
+
+    body{
+        margin: 0px;
+        position: relative;
+        background-color: #0B0D17;
+    }
+    
+    .heading-one {
+        font-family: 'Bellefair', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 150px;
+        line-height: 172px;
+        /* identical to box height */
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    
+    .heading-two {
+        font-family: 'Bellefair', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 100px;
+        line-height: 115px;
+        /* identical to box height */
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    
+    .heading-three {
+        font-family: 'Bellefair', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 56px;
+        line-height: 64px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    
+    .heading-four {
+        font-family: 'Bellefair', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 37px;
+        /* identical to box height */
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    
+    .heading-five {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 34px;
+        /* identical to box height */
+        letter-spacing: 4.725px;
+        text-transform: uppercase;
+        color: #D0D6F9;
+    }
+    
+    .subheading-one {
+        font-family: 'Bellefair', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 32px;
+        /* identical to box height */
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    
+    .subheading-two {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        /* identical to box height */
+        letter-spacing: 2.3625px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    
+    .nav-text {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: 2.7px;
+        color: #FFFFFF;
+    }
+    
+    .body-text {
+        font-family: 'Barlow', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 32px;
+        /* or 178% */
+        color: #FFFFFF;
+    }
+    
+    .info-text-body-color {
+        color: #D0D6F9
+    }
+}
