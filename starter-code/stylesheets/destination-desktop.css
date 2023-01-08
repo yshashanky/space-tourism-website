@@ -1,0 +1,8 @@
+@media (min-width: 769px) {
+    body {
+        background-image: url("../assets/destination/background-destination-desktop.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+    }
+}

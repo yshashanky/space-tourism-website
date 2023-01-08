@@ -1,11 +1,11 @@
 /* mobile */
-@import url("./stylesheets/mobile.css");
+@import url("./stylesheets/destination-mobile.css");
 
 /* tablet */
-@import url("./stylesheets/tablet.css");
+@import url("./stylesheets/destination-tablet.css");
 
 /* desktop */
-@import url("./stylesheets/desktop.css");
+@import url("./stylesheets/destination-desktop.css");
 
 /* navbar */
 @import url("./stylesheets/navbar-mobile.css");
