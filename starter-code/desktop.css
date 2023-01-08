@@ -171,13 +171,13 @@
         text-decoration: none;
     }
 
-    .content{
+    .content {
         display: inline-flex;
-        margin: 251px 165px 131px 165px;
+        margin: 251px 165px 43px 77px;
     }
 
-    .info-text{
-        margin-right: 386px;
+    .info-text {
+        margin-right: 298px;
     }
 
     .info-text-body-color {
@@ -195,6 +195,20 @@
         width: 274px;
         border-radius: 50%;
         text-align: center;
+        margin-top: 88px;
+        margin-left: 88px;
+        opacity: 1;
+    }
+
+    .explore-hover {
+        margin-top: 20px;
+        height: 450px;
+        width: 450px;
+        border-radius: 50%;
+    }
+
+    .explore-button:hover {
+        box-shadow: 0px 0px 1px 88px rgb(255, 255, 255, 10%); 
     }
 
     .explore-button-text {

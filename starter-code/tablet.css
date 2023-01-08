@@ -161,7 +161,7 @@
     .navbar input {
         display: none;
     }
-    
+
     .navbar a {
         text-decoration: none;
     }
@@ -193,6 +193,10 @@
         margin-top: 156px;
         margin-left: 104px;
         margin-right: 104px;
+    }
+
+    .explore-button:hover {
+        box-shadow: 0px 0px 1px 78px rgb(255, 255, 255, 10%); 
     }
 
     .explore-button-text {
