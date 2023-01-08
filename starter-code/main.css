@@ -1,8 +1,14 @@
 /* mobile */
 @import url("./stylesheets/mobile.css");
+@import url("./stylesheets/destination-mobile.css");
+@import url("./stylesheets/crew-mobile.css");
 
 /* tablet */
 @import url("./stylesheets/tablet.css");
+@import url("./stylesheets/destination-tablet.css");
+@import url("./stylesheets/crew-tablet.css");
 
 /* desktop */
 @import url("./stylesheets/desktop.css");
+@import url("./stylesheets/destination-desktop.css");
+@import url("./stylesheets/crew-desktop.css");
